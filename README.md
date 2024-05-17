@@ -9,7 +9,7 @@ This repository contains the code developed for varies gis and remote-sensing re
 ## Table of Contents
 
 1. [Vector-Raster](#vec2ras)
-2. [Pansharpen] (#pansharp)
+2. [Pansharpen](#pansharp)
 
 
  
